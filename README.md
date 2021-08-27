@@ -1,6 +1,9 @@
 # Simple-To-Do-App
 Kolay bir şekilde yapıcaklarınızı telefonda not alın. / Keep things to do on the phone in an easy way
 
+- Easy to use,
+- SqfLite
+
 
 
 
